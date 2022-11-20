@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "groove mix",
+      "invocationName": "groovemix",
       "intents": [
         {
           "name": "PlayAudio",
